@@ -1,0 +1,14 @@
+.danger{
+    background-color:brown;
+}
+h1,div{
+    text-align:center;
+
+}
+ul {
+    display: table; 
+    margin: 0 auto;
+    padding-bottom: 20px;
+    text-align: left;
+    justify-content:center;
+}
